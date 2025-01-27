@@ -15,15 +15,18 @@ Estou desenvolvendo um sistema de cálculo de distâncias entre cidades, integra
 ⚡ Tecnologias e Ferramentas:
 
 Linguagens: Python, JavaScript, HTML, CSS
+
 Frameworks: React.js, Streamlit, Node.js
+
 Ferramentas: Git, Docker, VS Code, Postman
+
 Bancos de Dados: MySQL, PostgreSQL, SQLite
-APIs: Google Maps API, APIs RESTful
 
 📩 Contato:
 
 Email: matheus.lucasweb1@gmail.com
 LinkedIn: https://linkedin.com/in/matheussouza1s
+Website: portfoliopessoalmatheus.vercel.app
 
 Vamos construir algo incrível juntos? 🚀
 
