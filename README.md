@@ -34,7 +34,7 @@
 ✨ Criando projetos para aprimorar minhas habilidades e compartilhar minha jornada  
 😁 Confira meu portfólio pessoal: 
 <div>
-<a href="https://portfoliopessoalmatheus.vercel.app/" rel="noopener noreferrer" target="_blank">
+<a href="https://portfoliopessoalmatheus.vercel.app/" rel="noopener noreferrer" target="_blank"></a>
 <\div>
 
 
