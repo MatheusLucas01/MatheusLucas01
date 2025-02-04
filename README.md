@@ -31,9 +31,7 @@
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
 ⚡ Aspirante a **Desenvolvedor Full-Stack**, com interesse também em **Desenvolvimento de Software**  
 🎯 Focado em **HTML, CSS, JavaScript, Python, React.js, Node.js**  
-✨ Criando projetos para aprimorar minhas habilidades e compartilhar minha jornada  
-😁 Confira meu portfólio pessoal: <a href="https://portfoliopessoalmatheus.vercel.app/" rel="noopener noreferrer" target="_blank"> </a>
-
+✨ Criando projetos para aprimorar minhas habilidades e compartilhar minha jornada
 
 
 ###
