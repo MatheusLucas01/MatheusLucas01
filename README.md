@@ -35,7 +35,7 @@
 😁 Confira meu portfólio pessoal: 
 <div>
 <a href="https://portfoliopessoalmatheus.vercel.app/" rel="noopener noreferrer" target="_blank"></a>
-<\div>
+</div>
 
 
 ###
