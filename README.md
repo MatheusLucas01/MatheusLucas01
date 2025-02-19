@@ -56,7 +56,7 @@
 
 ###
 
-<h2 align="center">🚀 What You’ll Find Here</h2>
+<h2 align="center">🚀 Oque você encontrará aqui</h2>
 
 ###
 
