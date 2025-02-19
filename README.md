@@ -27,7 +27,7 @@
 
 ## 👋 Olá, eu sou o Matheus Lucas!  
 
-🌍 Sou de Brasília, Brasil  
+🌍 Sou de Campos Belos, Brasil 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
 ⚡ Aspirante a **Desenvolvedor Full-Stack**, com interesse também em **Desenvolvimento de Software**  
 🎯 Focado em **HTML, CSS, JavaScript, Python, React.js, Node.js**  
