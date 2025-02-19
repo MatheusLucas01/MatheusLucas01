@@ -30,7 +30,7 @@
 🌍 Sou de Campos Belos, Brasil 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
 ⚡ Aspirante a **Desenvolvedor Full-Stack**, com interesse também em **Desenvolvimento de Software**  
-🎯 Focado em **HTML, CSS, JavaScript, Python, React.js, Node.js**  
+🎯 Focado em **HTML, CSS, JavaScript, Python, React.js**  
 ✨ Criando projetos para aprimorar minhas habilidades e compartilhar minha jornada
 
 
@@ -52,6 +52,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="react logo" />
+          
+  
 </div>
 
 ###
