@@ -58,8 +58,7 @@
 
 ## 📫 Como entrar em contato
 - **Email:** [matheuslucas@example.com](mailto:matheuslucas@example.com)
-- **LinkedIn:** [Matheus Lucas](https://www.linkedin.com/in/matheuslucas01)
-- **Twitter:** [@MatheusLucas01](https://twitter.com/MatheusLucas01)
+- **LinkedIn:** [Matheus Lucas](https://www.linkedin.com/in/matheussouza1s)
 
 ## 💬 Vamos conectar!
 Sinta-se à vontade para entrar em contato se quiser colaborar em um projeto ou apenas conversar sobre tecnologia. Estou sempre aberto a novas oportunidades e conexões.
