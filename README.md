@@ -57,7 +57,7 @@
 </div>
 
 ## 📫 Como entrar em contato
-- **Email:** [matheuslucas@example.com](mailto:matheuslucas@example.com)
+- **Email:** [matheuslucas](mailto:matheuslucasdesouza22@gmail.com)
 - **LinkedIn:** [Matheus Lucas](https://www.linkedin.com/in/matheussouza1s)
 
 ## 💬 Vamos conectar!
