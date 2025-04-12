@@ -26,7 +26,7 @@
 🌍 Sou de Campos Belos, Brasil 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
 ⚡ Aspirante a **Desenvolvedor Full-Stack**, com interesse também em **Desenvolvimento de Software**  
-🎯 Focado em **HTML, CSS, JavaScript, Python, React.js**  
+🎯 Focado em **HTML, CSS, JavaScript, React.js, Python e Golang.**  
 ✨ Criando projetos para aprimorar minhas habilidades e compartilhar minha jornada
 
 ## 🔭 No que estou trabalhando
@@ -37,7 +37,7 @@
 ## 🌱 O que estou aprendendo
 - Frameworks JavaScript avançados como **React** e Vue.
 - Desenvolvimento backend com Node.js e Express.
-- Serviços em nuvem e práticas de DevOps.
+- Serviços em nuvem (aws) e práticas de DevOps (kubernetes).
 
 <h2 align="center">🛠 Linguagens e Ferramentas</h2>
 
