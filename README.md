@@ -5,7 +5,7 @@ Sou um desenvolvedor Full-Stack apaixonado por tecnologia, aprendizado constante
 ---
 
 ## 🌐 Sobre mim
-- 🎨 Criador do [Portfólio Interativo](https://matheuscode.com.br)
+- 🎨 Criador do [Portfólio](https://matheuscode.com.br)
 - 🚀 Desenvolvendo o AgroSafe: reconhecimento de pragas com IA
 - 💸 Criador de um Simulador Financeiro para análise pessoal e empresarial
 - 🚪 Sempre aprendendo: React Native, Docker, Firebase, e muito mais
