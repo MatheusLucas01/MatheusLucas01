@@ -40,9 +40,10 @@ Sou um desenvolvedor Full-Stack apaixonado por tecnologia, aprendizado constante
 ---
 
 ## 📖 Projetos em Destaque
-- [AgroSafe App](https://github.com/MatheusLucas01) – Reconhecimento de pragas com IA 
-- [Simulador Financeiro](https://github.com/MatheusLucas01) – Análise e planejamento financeiro
+- [Plantrex](https://github.com/MatheusLucas01) – Reconhecimento de pragas com IA (Em Desenvolvimento)
+- [Simulador Financeiro](https://github.com/MatheusLucas01) – Análise e planejamento financeiro (Em Desenvolvimento)
 - [Portfólio Pessoal](https://matheuscode.com.br) – Meu site interativo com projetos e contato
+- [Lanx](https://github.com/MatheusLucas01) - Sistema Desktop para controle do fluxo de caixa de uma lanchonete familiar.
 
 ---
 
