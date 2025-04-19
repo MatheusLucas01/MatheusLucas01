@@ -43,7 +43,7 @@ Sou um desenvolvedor Full-Stack apaixonado por tecnologia, aprendizado constante
 - [Plantrex](https://github.com/MatheusLucas01) – Reconhecimento de pragas com IA (Em Desenvolvimento)
 - [Simulador Financeiro](https://github.com/MatheusLucas01) – Análise e planejamento financeiro (Em Desenvolvimento)
 - [Portfólio Pessoal](https://matheuscode.com.br) – Meu site interativo com projetos e contato
-- [Lanx](https://github.com/MatheusLucas01) - Sistema Desktop para controle do fluxo de caixa de uma lanchonete familiar.
+- [Lanx](https://github.com/MatheusLucas01) - Sistema Desktop para controle do fluxo de caixa de uma lanchonete familiar (Em Desenvolvimento)
 
 ---
 
