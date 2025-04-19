@@ -56,12 +56,16 @@ Atuo com **React** no front‑end e **Python/Golang** no back‑end, sempre busc
 
 <p align="center">
   <a href="https://github.com/MatheusLucas01">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=MatheusLucas01&show_icons=true&theme=radical&hide_title=true&count_private=true" alt="Matheus's GitHub Stats"/>
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=MatheusLucas01&show_icons=true&count_private=true&theme=tokyonight&hide_title=true&hide=prs" alt="Estatísticas do GitHub"/>
   </a>
-  <br/>
+  <br/><br/>
   <a href="https://github.com/MatheusLucas01">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLucas01&layout=compact&theme=radical&hide_title=true&count_private=true" alt="Matheus's Top Languages"/>
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLucas01&layout=compact&theme=tokyonight&hide_title=true&count_private=true" alt="Linguagens mais usadas"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MatheusLucas01&theme=tokyonight&row=2&column=3&no-frame=true&margin-w=15" alt="Troféus"/>
 </p>
 
 ---
