@@ -24,15 +24,17 @@ Sou **Desenvolvedor Full-Stack** com foco em **React** no front-end e **Python/G
 
 ---
 
-## 📈 Estatísticas do GitHub
+## 📊 Minhas Estatísticas
 
-Aqui estão algumas das minhas estatísticas mais recentes do GitHub:
+<div align="center">
+  <img src="https://img.shields.io/github/followers/MatheusLucas01?style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/MatheusLucas01?style=social" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/forks/MatheusLucas01?style=social" alt="GitHub Forks" />
+  <img src="https://img.shields.io/github/issues/MatheusLucas01?style=social" alt="GitHub Issues" />
+  <img src="https://img.shields.io/github/contributors/MatheusLucas01?style=social" alt="GitHub Contributors" />
+</div>
 
-<!-- Exemplo de link de estatísticas GitHub (pode não funcionar dependendo da situação) -->
-![Estatísticas do Matheus no GitHub](https://github-readme-stats.vercel.app/api?username=MatheusLucas01&show_icons=true&theme=radical)
-
-<!-- Se a API acima não funcionar, você pode tentar outra solução -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLucas01&layout=compact&theme=radical)
+Essas badges fornecem uma visão clara e estilizada de alguns aspectos da sua conta GitHub!
 
 ---
 
