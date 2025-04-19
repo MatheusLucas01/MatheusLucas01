@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MatheusLucas01/MatheusLucas01/main/banner.png" alt="Banner Matheus Lucas - Fullstack Developer" width="700"/> 
+  <img src="https://raw.githubusercontent.com/MatheusLucas01/MatheusLucas01/main/banner.png](https://github.com/MatheusLucas01/MatheusLucas01/blob/main/github-header-image.png?raw=true)" alt="Banner Matheus Lucas - Fullstack Developer" width="700"/> 
   <!-- Ajuste width="700" se necessário -->
 </p>
 
