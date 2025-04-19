@@ -52,6 +52,20 @@ Atuo com **React** no front‑end e **Python/Golang** no back‑end, sempre busc
 
 ---
 
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <a href="https://github.com/MatheusLucas01">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=MatheusLucas01&show_icons=true&theme=radical&hide_title=true&count_private=true" alt="Matheus's GitHub Stats"/>
+  </a>
+  <br/>
+  <a href="https://github.com/MatheusLucas01">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLucas01&layout=compact&theme=radical&hide_title=true&count_private=true" alt="Matheus's Top Languages"/>
+  </a>
+</p>
+
+---
+
 ## 📫 Vamos Conectar?
 
 <p align="center">
