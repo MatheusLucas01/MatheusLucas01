@@ -27,14 +27,18 @@ Sou **Desenvolvedor Full-Stack** com foco em **React** no front-end e **Python/G
 ## 📊 Minhas Estatísticas
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/MatheusLucas01?style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/MatheusLucas01?style=social" alt="GitHub Stars" />
-  <img src="https://img.shields.io/github/forks/MatheusLucas01?style=social" alt="GitHub Forks" />
-  <img src="https://img.shields.io/github/issues/MatheusLucas01?style=social" alt="GitHub Issues" />
-  <img src="https://img.shields.io/github/contributors/MatheusLucas01?style=social" alt="GitHub Contributors" />
-</div>
+  <!-- Troféus de conquistas -->
+  [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=MatheusLucas01&theme=onedark&row=1&column=5&margin-w=10)](https://github.com/MatheusLucas01)
+  
+  <!-- Contagem de dias consecutivos -->
+  ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MatheusLucas01&theme=dark&hide_border=true)
+  
+  <!-- Gráfico de atividade -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=MatheusLucas01&theme=github&hide_border=true" alt="Activity Graph" />
 
-Essas badges fornecem uma visão clara e estilizada de alguns aspectos da sua conta GitHub!
+  <!-- Linguagens mais usadas -->
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLucas01&layout=compact&theme=onedark&hide_border=true)
+</div>
 
 ---
 
