@@ -1,38 +1,25 @@
-# Olá! Eu sou o Matheus Lucas 🚀
+# Olá, eu sou o Matheus Lucas 👋
 
-Sou um **Desenvolvedor Full-Stack** apaixonado por tecnologia, aprendizado contínuo e soluções inovadoras. Trabalhando principalmente com **React** no front-end e **Python/Golang** no back-end, sempre buscando entregar soluções eficientes e de alta qualidade.
+Sou **Desenvolvedor Full-Stack** com foco em **React** no front-end e **Python/Golang** no back-end. Acredito no aprendizado constante e em soluções tecnológicas que realmente impactam a vida das pessoas. 🚀
 
----
-
-## 🌟 Sobre Mim
-
-- **Criador do [Portfólio](https://matheuscode.com.br)**: Meu site pessoal, onde compartilho meus projetos e artigos.
-- **Desenvolvedor do AgroSafe**: Um sistema de **reconhecimento de pragas** utilizando Inteligência Artificial para o setor agrícola.
-- **Criador do Simulador Financeiro**: Ferramenta de **análise e planejamento financeiro** para ajudar pessoas e empresas a gerenciar suas finanças.
-- **Apaixonado por Aprendizado Contínuo**: Sempre em busca de aprender novas tecnologias, como **React Native**, **Docker**, **Firebase**, e muito mais.
+### 🔹 Sobre Mim
+- **Portfólio**: [matheuscode.com.br](https://matheuscode.com.br)
+- **Projetos em desenvolvimento**: **AgroSafe** (Reconhecimento de Pragas com IA) e **Simulador Financeiro** (Análise e planejamento financeiro).
+- **Apaixonado por aprender**: Atualmente explorando **React Native**, **Docker**, **Firebase**, e mais!
 
 ---
 
-## ⚙️ Tecnologias & Ferramentas
-
-Aqui estão algumas das tecnologias que utilizo regularmente para criar soluções incríveis:
+## 🚀 Tecnologias e Ferramentas
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5 logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3 logo" />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML logo" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS logo" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="React logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=go" height="40" alt="Go logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
+  <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="TypeScript logo" />
 </div>
 
 ---
@@ -41,40 +28,34 @@ Aqui estão algumas das tecnologias que utilizo regularmente para criar soluçõ
 
 Aqui estão algumas das minhas estatísticas mais recentes do GitHub:
 
-<div align="center">
-  ![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusLucas01&show_icons=true&theme=radical)
-  <img width="12" />
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLucas01&layout=compact&theme=radical)
-</div>
+<!-- Exemplo de link de estatísticas GitHub (pode não funcionar dependendo da situação) -->
+![Estatísticas do Matheus no GitHub](https://github-readme-stats.vercel.app/api?username=MatheusLucas01&show_icons=true&theme=radical)
+
+<!-- Se a API acima não funcionar, você pode tentar outra solução -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLucas01&layout=compact&theme=radical)
 
 ---
 
-## 💼 Projetos em Destaque
+## 📖 Projetos em Destaque
 
-Aqui estão alguns dos meus projetos que estou desenvolvendo ou já finalizei:
+### 🚜 **[AgroSafe](https://github.com/MatheusLucas01/agrosafe)**
+- **Tecnologia**: **Python** + **IA**
+- **Descrição**: Projeto para reconhecimento de pragas agrícolas utilizando Inteligência Artificial.
+- **Status**: Em desenvolvimento.
 
-- **[Plantrex](https://github.com/MatheusLucas01/plantrex)** – Projeto de reconhecimento de pragas com Inteligência Artificial (em desenvolvimento).
-- **[Simulador Financeiro](https://github.com/MatheusLucas01/simulador-financeiro)** – Sistema para análise e planejamento financeiro pessoal e empresarial (em desenvolvimento).
-- **[Portfólio Pessoal](https://matheuscode.com.br)** – Meu portfólio interativo com projetos e informações de contato.
-- **[Lanx](https://github.com/MatheusLucas01/lanx)** – Sistema Desktop para controle de fluxo de caixa de uma lanchonete familiar (em desenvolvimento).
+### 💼 **[Simulador Financeiro](https://github.com/MatheusLucas01/simulador-financeiro)**
+- **Tecnologia**: **React** + **Node.js**
+- **Descrição**: Sistema de planejamento e análise financeira, com relatórios e gráficos.
+- **Status**: Em desenvolvimento.
 
----
-
-## 🎮 Experimente os GIFs dos Meus Projetos!
-
-Aqui você pode ver alguns exemplos em ação:
-
-- **[Plantrex - Reconhecimento de Pragas](https://github.com/MatheusLucas01/plantrex)**
-  
-  ![Plantrex Demo](https://media.giphy.com/media/2w6v6OPmj8l8JlwQfA/giphy.gif)
-
-- **[Simulador Financeiro](https://github.com/MatheusLucas01/simulador-financeiro)**
-  
-  ![Simulador Financeiro Demo](https://media.giphy.com/media/5fFh52FVJ6TzU2iBMe/giphy.gif)
+### 🌐 **[Portfólio Pessoal](https://matheuscode.com.br)**
+- **Tecnologia**: **React**
+- **Descrição**: Meu portfólio pessoal, com informações sobre minha trajetória, habilidades e projetos.
+- **Status**: Online e em constante atualização.
 
 ---
 
-## 📞 Vamos Conectar?
+## 📞 Conecte-se Comigo!
 
 - **LinkedIn**: [Matheus Souza](https://linkedin.com/in/matheussouza1s)
 - **GitHub**: [@MatheusLucas01](https://github.com/MatheusLucas01)
@@ -82,5 +63,5 @@ Aqui você pode ver alguns exemplos em ação:
 
 ---
 
-### 🚀 Vamos construir algo juntos!
-Sempre em busca de novas oportunidades de aprendizado e desafios interessantes. Se você tem algum projeto ou ideia para discutir, entre em contato comigo!
+### Vamos construir algo juntos! 🚀
+Estou sempre em busca de novos desafios e oportunidades de aprendizado. Se você está interessado em colaborar ou discutir ideias, não hesite em entrar em contato!
