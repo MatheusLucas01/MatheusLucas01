@@ -27,8 +27,8 @@ Sou **Desenvolvedor Full-Stack** com foco em **React** no front-end e **Python/G
 ## 📊 Minhas Estatísticas
 
 <div align="center">
-  <!-- Troféus de conquistas -->
-  [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=MatheusLucas01&theme=onedark&row=1&column=5&margin-w=10)](https://github.com/MatheusLucas01)
+
+  [![Trophy](https://github-profile-trophy.vercel.app/?username=MatheusLucas01&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15)](https://github.com/MatheusLucas01)
   
   <!-- Contagem de dias consecutivos -->
   ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MatheusLucas01&theme=dark&hide_border=true)
