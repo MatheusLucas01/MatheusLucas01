@@ -33,7 +33,7 @@ Sou um desenvolvedor Full-Stack com forte experiência na criação de aplicaç�
 
 <div align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind" alt="Front-End Skills"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=python,go,nodejs,express" alt="Back-End Skills"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=python,go,nodejs" alt="Back-End Skills"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=mysql,postgres,firebase" alt="Database Skills"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=docker,git,githubactions,linux,vscode" alt="Tools & DevOps"/></a>
 </div>
