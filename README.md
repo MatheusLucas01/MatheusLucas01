@@ -84,7 +84,7 @@ Sou um desenvolvedor Full-Stack com forte experiência na criação de aplicaç�
   <br>
   <strong>Tecnologias:</strong> Python, Tkinter, SQLite.
   <br>
-  🔗 [Ver no GitHub](https://github.com/MatheusLucas01/lanx)
+  🔗 [Ver no GitHub](https://github.com/MatheusLucas01/Lanx)
 </details>
 
 <p align="center">
