@@ -49,50 +49,6 @@ Sou um desenvolvedor Full-Stack com forte experiência na criação de aplicaç�
 
 ---
 
-## 🎯 Projetos Principais
-
-<details>
-  <summary><strong>🚜 AgroSafe - Reconhecimento de Pragas com IA</strong></summary>
-  <br>
-  Plataforma web que utiliza modelos de Visão Computacional para identificar pragas em imagens de lavouras, fornecendo diagnósticos rápidos para o agronegócio.
-  <br>
-  <em><strong>Destaques:</strong> Treinamento de modelo IA, API RESTful, Interface interativa.</em>
-  <br>
-  <strong>Tecnologias:</strong> Python (TensorFlow/Keras, Flask), React, Docker.
-  <br>
-  🔗 [Ver no GitHub](https://github.com/MatheusLucas01/agrosafe)
-</details>
-
-<details>
-  <summary><strong>💸 Simulador Financeiro - Análise e Planejamento</strong></summary>
-  <br>
-  Aplicação web para simular cenários de investimento, calcular juros compostos e auxiliar no planejamento financeiro pessoal ou empresarial com gráficos interativos.
-  <br>
-  <em><strong>Destaques:</strong> Cálculos financeiros complexos, Visualização de dados (Chart.js), Arquitetura desacoplada (potencial para microsserviços).</em>
-  <br>
-  <strong>Tecnologias:</strong> React, Go (cálculos), Python (API), MySQL.
-  <br>
-  🔗 [Ver no GitHub](https://github.com/MatheusLucas01/simulador-financeiro)
-</details>
-
-<details>
-  <summary><strong>🍔 Lanx - Sistema PDV Simplificado</strong></summary>
-  <br>
-  Sistema desktop desenvolvido para um negócio familiar, focado no controle de caixa, registro de vendas e gerenciamento básico de estoque para lanchonetes.
-  <br>
-  <em><strong>Destaques:</strong> Solução prática para um problema real, Interface gráfica simples (Tkinter).</em>
-  <br>
-  <strong>Tecnologias:</strong> Python, Tkinter, SQLite.
-  <br>
-  🔗 [Ver no GitHub](https://github.com/MatheusLucas01/Lanx)
-</details>
-
-<p align="center">
-  <a href="https://github.com/MatheusLucas01?tab=repositories">Ver todos os meus repositórios</a>
-</p>
-
----
-
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
